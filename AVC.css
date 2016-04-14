@@ -1,0 +1,78 @@
+body{
+	background-color:white;
+	height:881px;
+
+}
+.header {
+	width:101%;
+	height:60px;
+	background-color:#008b03;
+	position:fixed;
+	font-family:Copperplate gothic light;
+	top:-5px;
+	margin-left:-11px;
+	border:1px solid black;
+	z-index:1;
+}
+#home{
+	left:50px;
+	top:17px;
+	height:30px;
+	border:none;
+	
+}
+#about {
+	left:135px;
+	top:17px;
+	height: 30px;
+	border:none;
+}
+#resume {
+	left:250px;
+	top:17px;
+	height:30px;
+	border:none;
+}
+#contact {
+	left:350px;
+	top:17px;
+	height:30px;
+	border:none;
+}
+
+.bodyx {
+	height:841px;
+	width:102%;
+	margin-left:-8px;
+	background-color:#e1e1e1;
+	margin-top:8px;	
+}
+#name {
+	position:absolute;
+	margin-top:300px;
+	margin-left:200px;
+	font-size:45px;
+	font-family:Copperplate gothic light;	
+}
+#contact2 {
+	position:absolute;
+	margin-top:355px;
+	margin-left:200px;
+	font-size:18px;
+	font-family:Copperplate gothic light;}
+#imgbelay{
+	position:absolute;
+	right:-9px;	
+}
+.footer {
+	width:102%;
+	height:60px;
+	background-color:#008b03;
+	margin-left:-9px;
+	margin-top:-13px;
+	border:1px solid black	
+}
+#copy {
+	margin-left:15px;
+}
+

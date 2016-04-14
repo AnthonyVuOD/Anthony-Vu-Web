@@ -1,0 +1,166 @@
+body{
+	background-color:white;
+	height:100%;
+	margin:0;
+	padding:0;
+	width:100%;
+	min-width: 850px;
+}
+.header {
+	width:100%;
+	height:55px;
+	background-color:#ddd;
+	position:fixed;
+	font-family:Copperplate gothic light;
+	top:0px;
+	border-bottom:1px solid black;
+	z-index:1;
+	float:left;
+}
+ul li {
+	display: inline-block;
+	padding-right:30px;
+
+}
+a:link, a:visited {
+	color:black;
+	text-decoration:none;
+}
+
+.bodyx {
+	width:100%;
+	position:relative;
+	background-color:white;
+	height:100%;
+	margin:0;
+	padding:0;
+}
+#sunset {
+	margin: 0;
+	padding: 0;
+	width:100%;
+	line-height: 0;
+	display: block;
+}
+#img1 {
+
+	width:90%;
+	float:left;
+	margin-bottom:0;
+	padding-bottom:0;
+	line-height: 0;
+}
+#about2{
+	position: absolute;
+	margin-left:600px;
+	padding-top:200px;
+	font-size:40px;
+	font-family:Copperplate gothic light;
+
+}
+#me {
+	position: absolute;
+	margin-left:600px;
+	margin-top:300px;
+	width:35%;
+	height:auto;
+	font-family:Copperplate gothic light;
+}
+#imgbelay{
+	float:right;
+	height:auto;
+	line-height: 0;
+}
+#name {
+	position:absolute;
+	margin-top:150px;
+	margin-left:150px;
+	font-size:45px;
+	font-family:Copperplate gothic light;
+}
+#contact2 {
+	position:absolute;
+	margin-top:200px;
+	margin-left:150px;
+	font-size:18px;
+	font-family:Copperplate gothic light;
+}
+.footer {
+	width:100%;
+	height:60px;
+	background-color:#ddd;
+	border-top:1px solid black;
+  float: left;
+	z-index: 300;
+}
+#copy {
+	margin-top:20px;
+	margin-left:15px;
+}
+#resume {
+	left:250px;
+	top:17px;
+	height:30px;
+	border:none;
+}
+#contact {
+	left:350px;
+	top:17px;
+	height:30px;
+	border:none;
+}
+#resumeBody {
+	float:left;
+	width:100%;
+	background-color:white;
+	height:100%;
+	margin-left:auto;
+  margin-right:auto;
+	top:100px;
+	padding-bottom:50px;
+
+}
+#resumeName {
+	text-align:center;
+	padding-top:60px;
+
+}
+#resumeContainerOuter {
+	width:45%;
+	margin:0 auto 0 auto;
+	position:relative;
+	margin-top:55px;
+	background-color: yellow;
+
+}
+.leftContainerInner {
+	float:left;
+	width: 20%;
+	margin-top:20px;
+	text-align:right;
+
+}
+.leftContainerInner h3 {
+	padding-right:30px;
+}
+.rightContainerInner {
+	float:left;
+	width:80%;
+	position:relative;
+
+}
+.resumeContent {
+	float:left;
+	width:70%;
+	margin-top:25px;
+
+}
+.year {
+	margin-top:25px;
+	float:left;
+	text-align:right;
+	width:27%;
+}
+p {
+	margin-bottom:-10px;
+}
